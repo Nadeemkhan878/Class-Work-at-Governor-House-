@@ -1,0 +1,18 @@
+var firstName = "ali jrwar";
+console.log(firstName);
+firstName = "tota";
+console.log(firstName);
+var age = 29;
+console.log(age);
+var num1 = 9;
+var num2 = 1;
+console.log(num1 + num2);
+var num7 = 88;
+var num9 = 55;
+console.log(num9 * num7);
+var num3 = 33;
+var num4 = 44;
+console.log(num3 - num4);
+var num89 = 33;
+var num99 = 4;
+console.log(num89 / num99);
